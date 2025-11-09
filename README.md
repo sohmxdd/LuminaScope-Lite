@@ -1,8 +1,11 @@
-# 🌌 LuminaScope Lite
-AI-based Exoplanet Detector using NASA Kepler Light Curves (Lite Version) 
-*A machine learning mission that learns to detect worlds beyond our own.*
 <div align="center">
-![Banner](https://user-images.githubusercontent.com/00000000/placeholder-banner.png)
+
+# 🌌 LuminaScope Lite
+
+**AI-based Exoplanet Detector using NASA Kepler Light Curves (Lite Version)**  
+*A machine learning mission that learns to detect worlds beyond our own.*
+
+<img src="https://user-images.githubusercontent.com/00000000/placeholder-banner.png" width="800" alt="LuminaScope Lite Banner">
 
 </div>
 
@@ -13,7 +16,7 @@ AI-based Exoplanet Detector using NASA Kepler Light Curves (Lite Version)
 **LuminaScope Lite** is a lightweight prototype that analyzes stellar light curves — subtle variations in brightness recorded by NASA’s **Kepler** mission — to detect potential **exoplanet transits**.
 
 Using a **Convolutional Neural Network (CNN)**, LuminaScope Lite learns to recognize the small, periodic dips in starlight that occur when a planet passes in front of its star.  
-This mini version lays the foundation for a full-scale project that could evolve into an intelligent observatory module within your personal AI system, **SPIRAL**.
+This *Lite version* lays the foundation for a full-scale project that could evolve into an intelligent observatory module within **SPIRAL**, your future AI assistant.
 
 ---
 
@@ -103,4 +106,4 @@ Phase 5	NASA API extension & deployment	🔮 Future
 “Somewhere, something incredible is waiting to be known.”
 — Carl Sagan
 
-LuminaScope Lite merges that curiosity with code — blending astronomy, machine learning, and design into one project.
+LuminaScope Lite merges that curiosity with code — blending astronomy, machine learning, and design into one unified mission.
