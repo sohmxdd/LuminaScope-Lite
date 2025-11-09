@@ -5,7 +5,7 @@
 **AI-based Exoplanet Detector using NASA Kepler Light Curves (Lite Version)**  
 *A machine learning mission that learns to detect worlds beyond our own.*
 
-<img src="https://user-images.githubusercontent.com/00000000/placeholder-banner.png" width="800" alt="LuminaScope Lite Banner">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Detecting+Distant+Worlds+with+AI;Powered+by+SPIRAL+%7C+Kepler+Data;Exploring+the+Universe+Through+Light" alt="Typing Animation">
 
 </div>
 
@@ -26,14 +26,14 @@ This *Lite version* lays the foundation for a full-scale project that could evol
 - 🧠 Trains a compact 1D CNN to detect planetary transits  
 - 🌑 Predicts “Planet Detected / No Planet” from unseen light curves  
 - 🎨 (Optional) Interactive Streamlit dashboard for visual exploration  
-- 🔭 Designed for expandability — integrates easily with NASA APIs
+- 🔭 Designed for expandability — integrates easily with NASA APIs  
 
 ---
 
 ## ⚙️ Tech Stack
 
 | Layer | Tools / Libraries |
-|-------|--------------------|
+|:------|:------------------|
 | **Language** | Python |
 | **ML Framework** | TensorFlow / Keras |
 | **Data Handling** | NumPy, Pandas, Scikit-Learn |
