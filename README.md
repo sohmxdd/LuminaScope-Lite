@@ -80,7 +80,7 @@ Copy code
 
 ## 🧠 Getting Started
 
-###1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 Clone the project to your local environment or Colab workspace.
 
 ```bash
@@ -137,4 +137,4 @@ Phase 4	LuminaScope Pro (Raw Light Curves + CNN)	🔮 Planned
 — Carl Sagan
 
 LuminaScope Lite merges astronomy, AI, and data science —
-to make the unseen worlds beyond our solar system visible through numbers.
+to make the unseen worlds beyond our solar system visible through numbers
