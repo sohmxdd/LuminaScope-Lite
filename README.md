@@ -81,29 +81,38 @@ Copy code
 ## 🧠 Getting Started
 
 ### 1️⃣ Clone the Repository
+Clone the project to your local environment or Colab workspace.
+
 ```bash
 git clone https://github.com/sohmxdd/LuminaScope-Lite.git
 cd LuminaScope-Lite
+2️⃣ Install Dependencies
+Install all required libraries for training and running the model.
 
-### 2️⃣ Install Dependencies
 bash
 Copy code
 pip install -r requirements.txt
-
-### 3️⃣ Run the Notebook
-You can train and test the model locally or in Google Colab.
+3️⃣ Run the Notebook
+Open the main Jupyter/Colab notebook and execute each cell to preprocess the data, train the model, and evaluate results.
 
 bash
 Copy code
-# In Colab
+# In Google Colab
 !git clone https://github.com/sohmxdd/LuminaScope-Lite.git
 %cd LuminaScope-Lite
+Then open:
 
-###4️⃣ Load the Trained Model (Optional)
-python
+Copy code
+notebooks/LuminaScope_Lite_Final.ipynb
+4️⃣ Load the Trained Model
+If you wish to skip training and use the pre-trained network, load the saved model directly.
+
+bash
 Copy code
 from tensorflow.keras.models import load_model
 model = load_model("luminascope_model_v2.h5")
+You can then test it on sample data or integrate it into your own dataset for quick predictions.
+
 🌠 Dataset Information
 Source: NASA Kepler Exoplanet Search Results (Cumulative Dataset)
 File Used: dataset/cumulative.csv
