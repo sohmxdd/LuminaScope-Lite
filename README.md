@@ -84,11 +84,13 @@ Copy code
 ```bash
 git clone https://github.com/sohmxdd/LuminaScope-Lite.git
 cd LuminaScope-Lite
-2️⃣ Install Dependencies
+
+### 2️⃣ Install Dependencies
 bash
 Copy code
 pip install -r requirements.txt
-3️⃣ Run the Notebook
+
+### 3️⃣ Run the Notebook
 You can train and test the model locally or in Google Colab.
 
 bash
@@ -96,7 +98,8 @@ Copy code
 # In Colab
 !git clone https://github.com/sohmxdd/LuminaScope-Lite.git
 %cd LuminaScope-Lite
-4️⃣ Load the Trained Model (Optional)
+
+###4️⃣ Load the Trained Model (Optional)
 python
 Copy code
 from tensorflow.keras.models import load_model
