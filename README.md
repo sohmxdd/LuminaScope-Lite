@@ -80,7 +80,7 @@ Copy code
 
 ## 🧠 Getting Started
 
-1️⃣ Clone the Repository
+###1️⃣ Clone the Repository
 Clone the project to your local environment or Colab workspace.
 
 ```bash
