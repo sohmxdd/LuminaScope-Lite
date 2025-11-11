@@ -3,7 +3,7 @@
 **AI-based Exoplanet Detector using NASA Kepler Light Curves (Lite Version)**  
 *A machine learning mission that learns to detect worlds beyond our own.*
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Detecting+Distant+Worlds+with+AI;Powered+by+SPIRAL+%7C+Kepler+Data;Exploring+the+Universe+Through+Light)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Detecting+Distant+Worlds+with+AI;Analyzing+Starlight+for+Hidden+Planets;Exploring+the+Universe+Through+Data)
 
 ---
 
@@ -13,7 +13,7 @@
 
 Using a **neural network model**, it learns to identify subtle patterns in astrophysical parameters and distinguish between *confirmed exoplanets* and *false positives*.  
 
-This *Lite version* represents the foundational phase of the larger **LuminaScope Project**, envisioned to integrate directly with **SPIRAL**, a personalized AI observatory system.
+This *Lite version* represents the foundational phase of the larger LuminaScope project — focusing on accuracy, interpretability, and scientific reproducibility.
 
 ---
 
@@ -124,5 +124,5 @@ Phase 4	LuminaScope Pro (Raw Light Curves + CNN)	🔮 Planned
 “Somewhere, something incredible is waiting to be known.”
 — Carl Sagan
 
-LuminaScope Lite combines astronomy, AI, and design into one mission:
-to make the unseen worlds beyond our solar system visible through code. ✨
+LuminaScope Lite merges astronomy, AI, and data science —
+to make the unseen worlds beyond our solar system visible through numbers.
