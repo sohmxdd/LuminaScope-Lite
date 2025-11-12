@@ -49,7 +49,7 @@ LuminaScope-Lite/
 ├── notebooks/
 │ └── LuminaScope_Lite_Final.ipynb
 │
-├── luminascope_model_v2.h5
+├── luminascope_model.h5
 ├── README.md
 └── requirements.txt
 
