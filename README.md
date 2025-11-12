@@ -74,7 +74,7 @@ Copy code
 **Optimizer:** Adam (lr = 0.0005)  
 **Loss Function:** Binary Crossentropy  
 
-📦 Saved Model File → `luminascope_model_v2.h5`
+📦 Saved Model File → `luminascope_model.h5`
 
 ---
 
